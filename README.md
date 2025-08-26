@@ -10,7 +10,7 @@
 
 ---- 
 
-# ⚙️ Tecnologias e Bibliotecas
+# Tecnologias e Bibliotecas
 
 - Python 3.12+
 - PyTorch – para construção da rede neural
@@ -28,7 +28,7 @@
 - Plotagem do desempenho do agente ao longo dos episódios
 ----
 
-# 🔍 Aprendizados e Conceitos
+#  Aprendizados e Conceitos
 
 - Aprendizado por Reforço (Reinforcement Learning)
 - Componentes: Agente, ambiente, estado, ação e recompensa
@@ -36,7 +36,7 @@
 - Redução de variância com replay de memória e rede alvo
 ----
 
-# 📚 Referências
+#  Referências
 
 - Gymnasium Documentation https://gymnasium.farama.org/
 - PyTorch Documentation https://pytorch.org/
